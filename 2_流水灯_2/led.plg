@@ -1,0 +1,111 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+F:\my51\2_Á÷Ë®µÆ_2\led.uvproj
+Project File Date:  12/16/2019
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling main.c...
+MAIN.C(21): error C141: syntax error near 'u8'
+MAIN.C(21): error C202: 'i': undefined identifier
+MAIN.C(24): error C202: 'i': undefined identifier
+MAIN.C(29): error C202: 'i': undefined identifier
+MAIN.C(31): error C202: 'len': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling main.c...
+MAIN.C(20): error C141: syntax error near 'u8'
+MAIN.C(20): error C202: 'i': undefined identifier
+MAIN.C(23): error C202: 'i': undefined identifier
+MAIN.C(28): error C202: 'i': undefined identifier
+MAIN.C(30): error C202: 'len': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling main.c...
+MAIN.C(22): error C141: syntax error near 'u8'
+MAIN.C(22): error C202: 'i': undefined identifier
+MAIN.C(25): error C202: 'i': undefined identifier
+MAIN.C(30): error C202: 'i': undefined identifier
+MAIN.C(32): error C202: 'len': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling main.c...
+MAIN.C(22): error C141: syntax error near 'u8'
+MAIN.C(22): error C202: 'i': undefined identifier
+MAIN.C(25): error C202: 'i': undefined identifier
+MAIN.C(30): error C202: 'i': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling main.c...
+MAIN.C(22): error C141: syntax error near 'u8'
+MAIN.C(22): error C202: 'i': undefined identifier
+MAIN.C(25): error C202: 'i': undefined identifier
+MAIN.C(30): error C202: 'i': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling main.c...
+MAIN.C(22): error C141: syntax error near 'u8'
+MAIN.C(22): error C202: 'i': undefined identifier
+MAIN.C(25): error C202: 'i': undefined identifier
+MAIN.C(30): error C202: 'i': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling main.c...
+MAIN.C(22): error C141: syntax error near 'unsigned'
+MAIN.C(22): error C202: 'i': undefined identifier
+MAIN.C(25): error C202: 'i': undefined identifier
+MAIN.C(30): error C202: 'i': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling main.c...
+MAIN.C(22): error C141: syntax error near 'unsigned'
+MAIN.C(22): error C202: 'i': undefined identifier
+MAIN.C(25): error C202: 'i': undefined identifier
+MAIN.C(30): error C202: 'i': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling main.c...
+MAIN.C(22): error C141: syntax error near 'char'
+MAIN.C(22): error C202: 'i': undefined identifier
+MAIN.C(25): error C202: 'i': undefined identifier
+MAIN.C(30): error C202: 'i': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling main.c...
+MAIN.C(22): error C141: syntax error near 'char'
+MAIN.C(22): error C202: 'i': undefined identifier
+MAIN.C(25): error C202: 'i': undefined identifier
+MAIN.C(30): error C202: 'i': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling main.c...
+linking...
+Program Size: data=9.0 xdata=0 code=83
+creating hex file from "led"...
+"led" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+MAIN.C(23): error C141: syntax error near 'int'
+MAIN.C(23): error C202: 'j': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling main.c...
+MAIN.C(24): error C141: syntax error near 'int'
+MAIN.C(24): error C202: 'j': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling main.c...
+MAIN.C(24): error C141: syntax error near 'unsigned'
+MAIN.C(24): error C202: 'i': undefined identifier
+MAIN.C(27): error C202: 'i': undefined identifier
+MAIN.C(32): error C202: 'i': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling main.c...
+linking...
+Program Size: data=9.0 xdata=0 code=83
+creating hex file from "led"...
+"led" - 0 Error(s), 0 Warning(s).

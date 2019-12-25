@@ -1,0 +1,20 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+F:\my51\4¼ÌµçÆ÷\pro.uvproj
+Project File Date:  12/22/2019
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling main.c...
+MAIN.C(9): warning C280: 'argc': unreferenced local variable
+MAIN.C(9): warning C280: 'argv': unreferenced local variable
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_MAIN?MAIN
+*** WARNING L10: CANNOT DETERMINE ROOT SEGMENT
+Program Size: data=5.0 xdata=0 code=14
+creating hex file from "pro"...
+"pro" - 0 Error(s), 4 Warning(s).
